@@ -9,10 +9,15 @@
 }
 
 .top{
-	margin-top: 25px;
+	padding-left: 85px;
+}
+
+.top1{
+	margin-top: 30px;
 
 
 }
+
 
 a {
 	text-decoration: none;
@@ -20,6 +25,7 @@ a {
 
 .bold{
 	font-weight: bold;
+
 
 }
 
@@ -50,14 +56,36 @@ a {
 
 
 img {
-	    max-width: 140px;
-	    max-height: 140px;
+	max-width: 140px;
+	max-height: 140px;
 
 	}
 
 
 footer{
 
-		text-align: center;
-    font-size: 14px;
+	text-align: center;
+    font: 13px/1.5 sans-serif;
+    max-height: 50px;
+
 }
+.ulStyle {
+
+
+
+}
+li{
+display: inline;
+list-style-type: none;
+padding-right: 20px;
+
+}
+
+/*.footerDiv {
+ 	max-height: 10px;
+ 	max-width: 50px;
+
+
+
+}*/
+
