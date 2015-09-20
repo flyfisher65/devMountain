@@ -1,11 +1,21 @@
 .page{
 	height: 1266;
-	width: 891;
+	width: 2027;
 	margin: 0 auto;
-	padding-bottom: 10px 80px 10px 80px;
+	padding-bottom: 120px 80px 10px 80px;
 	font: 13px/1.5 sans-serif;
-	font-size: 150%;
+	font-size: 130%;
 
+}
+
+.top{
+	margin-top: 25px;
+
+
+}
+
+a {
+	text-decoration: none;
 }
 
 .bold{
@@ -19,16 +29,35 @@
 	text-align: right;
 }
 
-.headDiv1{
-	display: inline-block;
+.headDiv{
+	  display: -webkit-box;
+	  display: -moz-box;
+	  display: -ms-flexbox;
+	  display: -webkit-flex;
+	  display: flex;
+	  flex-direction: row;
+	  margin-left: 10%;
+
 
 
 }
-.headDiv2{
-	float: left;
 
-}
 
 .inlineDiv{
+    margin: 0 380px 40 0;
+	
+}
 
+
+img {
+	    max-width: 140px;
+	    max-height: 140px;
+
+	}
+
+
+footer{
+
+		text-align: center;
+    font-size: 14px;
 }
