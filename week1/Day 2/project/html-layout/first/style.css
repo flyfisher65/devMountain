@@ -1,0 +1,35 @@
+.header{
+	text-align: center;
+	background-color: #444444;
+	padding: 30px;
+	height: 172px;
+
+}
+.footer{
+	width: 1245px;
+	height: 80px;
+	background-color: #222222;
+	position: fixed;
+	bottom: 0px;
+	left: 170px;
+
+
+
+}
+
+.leftSide{
+	background-color: #d8d8d8;
+	float: left;
+	width: 162px;
+	height: 854px;
+
+}
+
+.rightSide{
+	width: 162px;
+	height: 854px;
+	background-color: #d8d8d8;
+	float: right;
+
+}
+

@@ -1,0 +1,120 @@
+.main{
+	background-color: white;
+	width: 1024px;
+	height: 1400px;
+	margin: 0 auto;
+}
+
+.text {
+	font-family: foundation sans;
+	font-size: 16px;
+}
+
+ 	
+
+.box-1 {
+	width: 30%;
+	height: 15%;
+	background-color: #d0021b;
+	margin: 10px 46px 0px 10px;
+	float: left;
+}
+
+.box-2 {
+	width: 30%;
+	height: 15%;
+	background-color: #4a90e2;
+	margin: 10px 46px 0px 0px;
+    float: left;
+    position: relative;
+    overflow: hidden;
+
+}
+
+.box-3 {
+	width: 30%;
+	height: 15%;
+	background-color: #4a4a4a;
+	margin: 10px 0px 10px 0px;
+    float: left;
+    position: relative;
+    overflow: hidden;
+
+}
+
+
+.box-4 {
+
+	width: 100%;
+	height: 15%;
+	background-color: white;
+	float: left;
+	margin: 10px 10px 0px 10px;
+
+
+}
+
+.box-5 {
+
+	width: 30%;
+	height: 30%;
+	background-color: #d0021b;
+	float: left;
+	margin-left: 10px;
+	
+
+
+}
+
+
+.box-6 {
+
+	width: 69%;
+	height: 30%;
+	background-color: #4a90e2;
+	float: left;
+
+
+
+}
+
+.box-7 {
+
+	width: 69%;
+	height: 20%;
+	background-color: #4a90e2;
+	float: left;
+	margin: 15px 0px 0px 10px;
+
+
+}
+
+.box-8 {
+
+	width: 8%;
+	height: 20%;
+	background-color: #d0021b;
+	float: left;
+	margin: 15px 0px 0px 0px;
+
+}
+
+.box-9 {
+
+	width: 14%;
+	height: 20%;
+	background-color: #4a4a4a;
+	float: left;
+	margin: 15px 0px 0px 0px;
+
+}
+
+.box-10 {
+
+	width: 8%;
+	height: 20%;
+	background-color: #d0021b;
+	float: left;
+	margin: 15px 0px 0px 0px;
+
+}

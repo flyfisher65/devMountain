@@ -1,0 +1,34 @@
+.page{
+	height: 1266;
+	width: 891;
+	margin: 0 auto;
+	padding-bottom: 10px 80px 10px 80px;
+	font: 13px/1.5 sans-serif;
+	font-size: 150%;
+
+}
+
+.bold{
+	font-weight: bold;
+
+}
+
+.welcome{
+
+	font-weight: bold;
+	text-align: right;
+}
+
+.headDiv1{
+	display: inline-block;
+
+
+}
+.headDiv2{
+	float: left;
+
+}
+
+.inlineDiv{
+
+}

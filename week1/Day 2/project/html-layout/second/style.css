@@ -1,0 +1,46 @@
+.left {
+    width: 340px;
+	height: 1024px;
+	background-color: #4a90e2;
+	float: left;
+}
+
+
+.mid {
+      width: 340px;
+      height: 1024px;
+      background-color: #50e3c2;
+      float: left;
+    
+}
+.right{
+	width: 340px;
+	height: 1024px;
+	background-color: #b8e986;
+    float: left;
+    position: relative;
+    overflow: hidden;
+
+}
+
+.placeholder{
+	width: 342px;
+	height: 206px;
+	background-color: #d0021b;
+	position: absolute; bottom: 3px;
+	position: absolute;
+    right:0;
+    bottom:0;
+}
+
+.text{
+
+	color: white;
+	text-align: center;
+	line-height: 160px;
+	font-family: foundation sans;
+	font-size: 26px;
+
+
+}
+
