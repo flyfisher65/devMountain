@@ -119,6 +119,35 @@ float: right;
 
 
 
+.dentalCenterTableLinks{
+border-spacing: 10px 0px;
+
+
+
+}
+
+
+.dentalCenterTRLinks{
+	font-size: 28px;
+	color: blue;
+
+
+
+
+}
+
+
+.dentalCenterTDLinks{
+float: right;
+	
+
+
+}
+
+
+
+
+
 a:hover, a:visited, a:link, a:active{
     text-decoration: none;
 }
